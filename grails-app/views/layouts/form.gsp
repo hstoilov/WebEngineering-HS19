@@ -5,6 +5,7 @@
     <title>
         <g:layoutTitle default="Form"/>
     </title>
+    <asset:javascript src="form_validation.js"/>
     <asset:link rel="icon" href="favicon.ico" type="image/x-ico"/>
 
     <style>
